@@ -32,5 +32,5 @@ title: Home
 
 *Built with 💖, [Jekyll](https://jekyllrb.com), and [Lanyon](http://lanyon.getpoole.com)*
 
-<a href="https://shorks.gay/@ellie" rel="me"><img src="{{ '/public/img/shorks-gay-88x31-trans.png' | absolute_url }}" /></a>
+<a href="https://fedi.shorks.gay/@ellie" rel="me"><img src="{{ '/public/img/shorks-gay-88x31-trans.png' | absolute_url }}" /></a>
 [![tgirl.gg]({{ '/public/img/tgirlgg.gif' | absolute_url }})](https://tgirl.gg)
