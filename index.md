@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p class="message">
-  Hi, I'm Ellie, aka <i>LeafedFox</i> [she/her]. I live in <a href="https://vs.code" target="_blank">Visual Studio Code</a> and <a href="https://iterm2.com/" target="_blank">iTerm</a>.
+  Hi, I'm Ellie, aka <i>LeafedFox</i> [she/her]. I live in <s><a href="https://vs.code" target="_blank">VS Code</a></s> <a href="https://www.jetbrains.com/phpstorm/" target="_blank">PHPStorm</a> and <a href="https://iterm2.com/" target="_blank">iTerm</a>.
 </p>
 
 **Working Stack**
